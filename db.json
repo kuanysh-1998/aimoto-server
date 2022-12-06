@@ -2,7 +2,7 @@
     "watches": [
       {
         "id": 2,
-        "image": "./products/iqtest.png",
+        "image": "./products/iq.png",
         "title": "Aimoto IQ 4G",
         "price": 5490,
         "link": "https://www.ozon.ru/product/umnye-chasy-dlya-detey-aimoto-iq-4g-videozvonok-wifi-gps-geolokatsiya-golosovoy-287747449/?asb=wpo7RyxWl1hnNYss4RrhsnMnD52jCuhFnp4X7L3CEHazRlnIn5YxJdJAMiNdRU2%252F&asb2=FLf6J7m6MNStYr3MYYIRCdAdv3m44h5rc32r7DZ2VI5gdOpxpPFfdzZQrMnE91j4maFejP25YTSSqP4vKnhzOgFyLOxwJOm2PDiB1SSU_iuSbjKB3TCHaK0Ga1ctQvGn_zSRH4nHUHAnAcwC1yoIGg&avtc=1&avte=1&avts=1670061058&keywords=aimoto+iq+4g&sh=7AtTZ3XqWw",
@@ -24,7 +24,8 @@
         "length": "48 мм",
         "height": "40 мм",
         "protectwater": "Да",
-        "standartprotect": "IP65"
+        "standartprotect": "IP65",
+        "operativesystem": "Android"
       },
       {
         "id": 3,
@@ -50,7 +51,8 @@
         "length": "52 мм",
         "height": "40 мм",
         "protectwater": "Да",
-        "standartprotect": "IP67"
+        "standartprotect": "IP67",
+        "operativesystem": "Совместимость iOS 8 и вышe, Android 5.1 и выше"
       },
       {
         "id": 1,
@@ -76,7 +78,8 @@
         "length": "48 мм",
         "height": "40 мм",
         "protectwater": "Да",
-        "standartprotect": "IP67"
+        "standartprotect": "IP67",
+        "operativesystem": "Android"
       },
       {
         "id": 4,
@@ -102,7 +105,8 @@
         "length": "48 мм",
         "height": "40 мм",
         "protectwater": "Да",
-        "standartprotect": "IP67"
+        "standartprotect": "IP67",
+        "operativesystem": "Android"
       },
       {
         "id": 5,
@@ -128,7 +132,35 @@
         "length": "45 мм",
         "height": "40 мм",
         "protectwater": "Да",
-        "standartprotect": "IP67"
+        "standartprotect": "IP67",
+        "operativesystem": "Совместимость iOS 8 и вышe, Android 5.1 и выше"
+      },
+      {
+        "id": 6,
+        "image": "./products/active.png",
+        "title": "Aimoto Active 4G",
+        "price": 4499,
+        "link": "https://www.dns-shop.ru/product/77fae1df3591ed20/detskie-casy-knopka-zizni-aimoto-active-4g/",
+        "operativesystem": "RTOS",
+        "processor": "ASR",
+        "modelprocessor": "36034",
+        "rateprocessor": "832 МГц",
+        "numberyader": "1",
+        "memory": "128 МБ",
+        "operativememory": "192 МБ",
+        "display": "IPS",
+        "diagonaldisplay": "1.57",
+        "permissionscreen": "200х320",
+        "numberbutton": 1,
+        "bluetooth": "Нет",
+        "versionbluetooth": "---",
+        "wifi": "Да",
+        "navigation": "LBS, WiFi",
+        "color": "Черный",
+        "length": "---",
+        "height": "40 мм",
+        "protectwater": "Да",
+        "standartprotect": "IP65"
       }
     ]
   }
