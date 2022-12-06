@@ -25,7 +25,13 @@
         "height": "40 мм",
         "protectwater": "Да",
         "standartprotect": "IP65",
-        "operativesystem": "Android"
+        "operativesystem": "Android",
+        "camera": "Есть",
+        "amountpics": "0.3 Мп",
+        "typebattery": "Li-Ion аккумулятор",
+        "capacitybattery": "750 мА*ч",
+        "workinexpect": "96 ч",
+        "timebattery": "4"
       },
       {
         "id": 3,
@@ -52,7 +58,13 @@
         "height": "40 мм",
         "protectwater": "Да",
         "standartprotect": "IP67",
-        "operativesystem": "Совместимость iOS 8 и вышe, Android 5.1 и выше"
+        "operativesystem": "Совместимость iOS 8 и вышe, Android 5.1 и выше",
+        "camera": "Есть",
+        "amountpics": "0.3 Мп",
+        "typebattery": "Li-Ion аккумулятор",
+        "capacitybattery": "750 мА*ч",
+        "workinexpect": "72 ч",
+        "timebattery": "5 ч"
       },
       {
         "id": 1,
@@ -79,7 +91,13 @@
         "height": "40 мм",
         "protectwater": "Да",
         "standartprotect": "IP67",
-        "operativesystem": "Android"
+        "operativesystem": "Android",
+        "camera": "Есть",
+        "amountpics": "2 Мп",
+        "typebattery": "Li-Ion аккумулятор",
+        "capacitybattery": "750 мА*ч",
+        "workinexpect": "120 ч",
+        "timebattery": "4 ч"
       },
       {
         "id": 4,
@@ -106,7 +124,13 @@
         "height": "40 мм",
         "protectwater": "Да",
         "standartprotect": "IP67",
-        "operativesystem": "Android"
+        "operativesystem": "Android",
+        "camera": "Есть",
+        "amountpics": "2 Мп",
+        "typebattery": "Li-Ion аккумулятор",
+        "capacitybattery": "750 мА*ч",
+        "workinexpect": "---",
+        "timebattery": "---"
       },
       {
         "id": 5,
@@ -133,7 +157,13 @@
         "height": "40 мм",
         "protectwater": "Да",
         "standartprotect": "IP67",
-        "operativesystem": "Совместимость iOS 8 и вышe, Android 5.1 и выше"
+        "operativesystem": "Совместимость iOS 8 и вышe, Android 5.1 и выше",
+        "camera": "Есть",
+        "amountpics": "0.3 Мп",
+        "typebattery": "Li-Ion аккумулятор",
+        "capacitybattery": "750 мА*ч",
+        "workinexpect": "---",
+        "timebattery": "---"
       },
       {
         "id": 6,
@@ -160,7 +190,46 @@
         "length": "---",
         "height": "40 мм",
         "protectwater": "Да",
-        "standartprotect": "IP65"
+        "standartprotect": "IP65",
+        "camera": "Есть",
+        "amountpics": "0.3 Мп",
+        "typebattery": "Li-Ion аккумулятор",
+        "capacitybattery": "400 мА*ч",
+        "workinexpect": "72 ч",
+        "timebattery": "5 ч"
+      },
+      {
+        "id": 7,
+        "image": "./products/sport4.png",
+        "title": "Aimoto Sport 4G",
+        "price": 5199,
+        "link": "https://www.dns-shop.ru/product/96e857fdbef92ff4/detskie-casy-knopka-zizni-aimoto-sport-4g/",
+        "operativesystem": "Совместимость iOS 8 и вышe, Android 5.1 и выше",
+        "processor": "ASR",
+        "modelprocessor": "3603S",
+        "rateprocessor": "832 МГц",
+        "numberyader": "1",
+        "memory": "128 МБ",
+        "operativememory": "64 МБ",
+        "display": "IPS",
+        "diagonaldisplay": "1.28",
+        "permissionscreen": "240х240",
+        "numberbutton": 1,
+        "bluetooth": "Нет",
+        "versionbluetooth": "---",
+        "wifi": "Да",
+        "navigation": "LBS, GPS, A-GPS (WiFi)",
+        "color": "Черный",
+        "length": "49.5",
+        "height": "46 мм",
+        "protectwater": "Да",
+        "standartprotect": "IP67",
+        "camera": "Есть",
+        "amountpics": "0.3 Мп",
+        "typebattery": "Li-Ion аккумулятор",
+        "capacitybattery": "500 мА*ч",
+        "workinexpect": "120 ч",
+        "timebattery": "2 ч"
       }
     ]
   }
