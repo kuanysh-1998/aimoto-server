@@ -31,7 +31,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "750 мА*ч",
         "workinexpect": "96 ч",
-        "timebattery": "4"
+        "timebattery": "4",
+        "instruction": "./products/iq.pdf"
       },
       {
         "id": 3,
@@ -64,7 +65,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "750 мА*ч",
         "workinexpect": "72 ч",
-        "timebattery": "5 ч"
+        "timebattery": "5 ч",
+        "instruction": "./products/grand.pdf"
       },
       {
         "id": 1,
@@ -97,7 +99,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "750 мА*ч",
         "workinexpect": "120 ч",
-        "timebattery": "4 ч"
+        "timebattery": "4 ч",
+        "instruction": "./products/indigo.pdf"
       },
       {
         "id": 4,
@@ -130,7 +133,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "750 мА*ч",
         "workinexpect": "---",
-        "timebattery": "---"
+        "timebattery": "---",
+        "instruction": "./products/pro.pdf"
       },
       {
         "id": 5,
@@ -163,7 +167,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "750 мА*ч",
         "workinexpect": "---",
-        "timebattery": "---"
+        "timebattery": "---",
+        "instruction": "./products/ocean.pdf"
       },
       {
         "id": 6,
@@ -196,7 +201,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "400 мА*ч",
         "workinexpect": "72 ч",
-        "timebattery": "5 ч"
+        "timebattery": "5 ч",
+        "instruction": "./products/iq.active.pdf"
       },
       {
         "id": 7,
@@ -229,7 +235,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "500 мА*ч",
         "workinexpect": "120 ч",
-        "timebattery": "2 ч"
+        "timebattery": "2 ч",
+        "instruction": "./products/sport4.pdf"
       },
       {
         "id": 8,
@@ -262,7 +269,8 @@
         "typebattery": "Li-Ion аккумулятор",
         "capacitybattery": "400 мА*ч",
         "workinexpect": "---",
-        "timebattery": "---"
+        "timebattery": "---",
+        "instruction": "./products/start2.pdf"
       }
     ]
   }
