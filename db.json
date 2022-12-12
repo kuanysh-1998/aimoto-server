@@ -658,7 +658,12 @@
         "img5":  "./products/remeshki/remeshok162.png",
         "title": "Универсальный ремешок для часов 16 мм",
         "buy": "https://www.ozon.ru/product/universalnyy-remeshok-dlya-chasov-16-mm-aimoto-element-kid-kid-mini-pro-indigo-iq-ocean-4g-ocean-712441563/?asb=gKSJDfsuIh903n84DHiYGtR5zQOGBFw8xJOOXKwV5U0%253D&asb2=JKwV-qozpyTkjVzPpoUVJMAzr_GFtxeNH7TVdG54VpWhauaQLsnbsgQktQtdufiY&avtc=1&avte=2&avts=1670840649&sh=KHP4ht669Q",
-        "price": 488
+        "price": 488,
+        "description": "Универсальный ремешок, подходит для большинства смарт часов и фитнес браслетов со стандартным креплением 16мм. Сменный, стильный ремешок выполнен из гипоаллергенного силикона. Размер крепления -16 мм. Габариты-20 (Ш)*115 (Д)+20 (Ш)*70 (Д) Подходит к моделям Aimoto: Element, Kid, Kid Mini, PRO, INDIGO, IQ, Ocean V2",
+        "size": "Размеры, мм <BsDashLg /> 20 (Ш)*115 (Д)+20 (Ш)*70 (Д)",
+        "length": "Длина ремешка, мм <BsDashLg /> 190",
+        "color": "Цвет <BsDashLg /> Супергерои"
+
       },
       {
         "id": 2,
@@ -670,7 +675,11 @@
         "img5": "./products/remeshki/remeshok162.png",
         "title": "Универсальный ремешок для часов 20 мм",
         "buy": "https://www.ozon.ru/product/universalnyy-remeshok-dlya-chasov-20-mm-aimoto-start-2-marvel-disney-cherno-seryy-491340366/?asb=zux4frSs6Xmk0UeeZJlVDrRKXhTCx%252BdC3AgNQOIDD%252FqhBKdkliWZPr%252FvCrcQ76Ry&asb2=R3jyhGQve6JSIQtmGaqxd6EHbpGA-embuHYdn4U1y_cSUhFslc6bu7WquyJeGJyrkCux_sMplt-xXz3fvvbvKpeRvZyBTvCmMXq-bE5R29hwpm7BsBU9G5fuJ0V88rIPkAtPW3YlLhiedS6kiejgZQ&avtc=1&avte=2&avts=1670864863&layout_container=pdpReviews&layout_page_index=2&sh=7AtTZ3CInA",
-        "price": 400
+        "price": 400,
+        "description": "Сменный, стильный ремешок выполнен из гипоаллергенного силикона. Размер крепления -20 мм. Габариты-20 (Ш)*110 (Д)+20 (Ш)*60 (Д)",
+        "size": "Размеры, мм <BsDashLg /> 20 (Ш)*110 (Д)+20 (Ш)*60 (Д)",
+        "length": "Длина ремешка, мм <BsDashLg /> 120",
+        "color": "Цвет <BsDashLg /> Черный AIR"
       },
       {
         "id": 3,
@@ -682,7 +691,11 @@
         "img5": "./products/remeshki/remeshok202.png",
         "title": "Универсальный ремешок для часов 20 мм",
         "buy": "https://www.ozon.ru/product/universalnyy-remeshok-dlya-chasov-20-mm-aimoto-start-2-marvel-disney-belyy-491038374/?asb=EYAFdp9LnwrfSCeeRh%252BwoLZi8alver2CxK2QmB8uEpfdBVlHlyWJYKVsFnY%252FlKm9&asb2=FTzDIaa90rp1c6P2GbkzWvVfVnbnw0VfcsNxj0OsjJTlEQcrmGqSmDF9UcaXqNDKs_YHpRfrzoiSKKv5wxEHsHzbejBFqfDc03pPLsBYEYej0rVy5Y50x952twLS_ktwQ8tVfXXqjQzutBS-JzK49w&avtc=1&avte=2&avts=1670865792&sh=7AtTZwPpUA",
-        "price": 400
+        "price": 400,
+        "description": "Сменный, стильный ремешок выполнен из гипоаллергенного силикона. Размер крепления -20 мм. Габариты-20 (Ш)*110 (Д)+20 (Ш)*60 (Д)",
+        "size": "Размеры, мм <BsDashLg /> 20 (Ш)*110 (Д)+20 (Ш)*60 (Д)",
+        "length": "Длина ремешка, мм <BsDashLg /> 110",
+        "color": "Цвет <BsDashLg /> Белый"
       }
 
     ]
