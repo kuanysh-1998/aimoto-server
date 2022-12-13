@@ -705,28 +705,28 @@
         "imei": "359472210707293",
         "model": "Aimoto IQ",
         "file": "./moreinfo/file/fileforiq.pac",
-        "program": "./moreinfo/programm/programmforiq.exe"
+        "program": "./moreinfo/programm/programmforiq"
       },
       {
         "id": 2,
         "imei": "359472210707294",
         "model": "Aimoto IQ",
         "file": "./moreinfo/file/fileforiq.pac",
-        "program": "./moreinfo/programm/programmforiq.exe"
+        "program": "./moreinfo/programm/programmforiq"
       },
       {
         "id": 3,
         "imei": "359472210707295",
         "model": "Aimoto IQ",
         "file": "./moreinfo/file/fileforiq.pac",
-        "program": "./moreinfo/programm/programmforiq.exe"
+        "program": "./moreinfo/programm/programmforiq"
       },
       {
         "id": 4,
         "imei": "359472210707296",
         "model": "Aimoto IQ",
         "file": "./moreinfo/file/fileforiq.pac",
-        "program": "./moreinfo/programm/programmforiq.exe"
+        "program": "./moreinfo/programm/programmforiq"
       }
     ]
   }
